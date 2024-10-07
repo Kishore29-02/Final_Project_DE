@@ -1,0 +1,20 @@
+# Ignore .env files
+.env
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Ignore pandas and other library caches
+.pandas
+.cache
+
+.venv
+
+# Ignore raw data files
+1.Raw/**
+
