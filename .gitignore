@@ -15,6 +15,3 @@
 
 .venv
 
-# Ignore raw data files
-1.Raw/**
-
